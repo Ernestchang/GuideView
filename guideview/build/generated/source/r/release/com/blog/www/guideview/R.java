@@ -20,8 +20,9 @@ public final class R {
         public static int icon_shit=0x7f020002;
     }
     public static final class id {
-        public static int iv_ad=0x7f070000;
-        public static int iv_close=0x7f070001;
+        public static int iv_ad=0x7f070001;
+        public static int iv_close=0x7f070002;
+        public static int rl_all=0x7f070000;
     }
     public static final class layout {
         public static int l_ad=0x7f040000;

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Jul 25 12:55:58 CST 2017
+#Tue Jul 25 15:18:01 CST 2017
 175.set=ANDROID_RESOURCE
 122.file=/Users/admin/code/git/GuideView/app/build/intermediates/res/resources-debug.ap_/res/drawable/qzone_edu.png
 60.set=ANDROID_RESOURCE

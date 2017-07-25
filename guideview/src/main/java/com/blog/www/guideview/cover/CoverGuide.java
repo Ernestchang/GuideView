@@ -151,6 +151,7 @@ public class CoverGuide implements View.OnKeyListener, View.OnClickListener {
             @Override
             public void onClick(View v) {
                 Log.e("ernest", "view: iv_ad click");
+                dismiss();
 
             }
         });
@@ -158,6 +159,7 @@ public class CoverGuide implements View.OnKeyListener, View.OnClickListener {
             @Override
             public void onClick(View v) {
                 Log.e("ernest", "view: iv_ad click");
+                dismiss();
 
             }
         });
@@ -171,6 +173,8 @@ public class CoverGuide implements View.OnKeyListener, View.OnClickListener {
 //        maskView.setPaddingBottom(mConfiguration.mPaddingBottom);
 //        maskView.setHighTargetGraphStyle(mConfiguration.mGraphStyle);
 //        maskView.setOverlayTarget(mConfiguration.mOverlayTarget);
+//        maskView.findViewById(R.id.rl_all).setAlpha(0.5f);
+        maskView.getBackground().setAlpha(128);
         maskView.setOnKeyListener(this);
 
         // For removing the height of status bar we need the root content view's
@@ -237,7 +241,6 @@ public class CoverGuide implements View.OnKeyListener, View.OnClickListener {
 //        for (Component c : mComponents) {
 //            maskView.addView(Common.componentToView(activity.getLayoutInflater(), c));
 //        }
-
 
 
         return maskView;
