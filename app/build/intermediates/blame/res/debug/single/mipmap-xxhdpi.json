@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/admin/code/git/GuideView/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/admin/code/git/GuideView/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/GuideView/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/arrow.png",
+        "source": "/Users/admin/code/git/GuideView/app/src/main/res/mipmap-xxhdpi/arrow.png"
+    }
+]

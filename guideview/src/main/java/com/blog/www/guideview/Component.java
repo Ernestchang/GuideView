@@ -51,7 +51,7 @@ public interface Component {
    * @param inflater use to inflate xml resource file
    * @return the component view
    */
-  View getView(LayoutInflater inflater);
+  public View getView(LayoutInflater inflater);
 
   /**
    * 相对目标View的锚点
@@ -59,7 +59,7 @@ public interface Component {
    * @return could be {@link #ANCHOR_LEFT}, {@link #ANCHOR_RIGHT},
    * {@link #ANCHOR_TOP}, {@link #ANCHOR_BOTTOM}, {@link #ANCHOR_OVER}
    */
-  int getAnchor();
+  public int getAnchor();
 
   /**
    * 相对目标View的对齐
@@ -67,19 +67,19 @@ public interface Component {
    * @return could be {@link #FIT_START}, {@link #FIT_END},
    * {@link #FIT_CENTER}
    */
-  int getFitPosition();
+  public int getFitPosition();
 
   /**
    * 相对目标View的X轴位移，在计算锚点和对齐之后。
    *
    * @return X轴偏移量, 单位 dp
    */
-  int getXOffset();
+  public int getXOffset();
 
   /**
    * 相对目标View的Y轴位移，在计算锚点和对齐之后。
    *
    * @return Y轴偏移量，单位 dp
    */
-  int getYOffset();
+  public int getYOffset();
 }
