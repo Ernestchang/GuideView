@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/admin/code/git/view/GuideView/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/admin/.android/build-cache/6bba3f380cae6220e75df5fa3a39de15a625bdd8/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/view/GuideView/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/admin/.android/build-cache/6bba3f380cae6220e75df5fa3a39de15a625bdd8/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/view/GuideView/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/admin/.android/build-cache/6bba3f380cae6220e75df5fa3a39de15a625bdd8/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/view/GuideView/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/admin/.android/build-cache/6bba3f380cae6220e75df5fa3a39de15a625bdd8/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/view/GuideView/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/admin/.android/build-cache/6bba3f380cae6220e75df5fa3a39de15a625bdd8/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/view/GuideView/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/admin/.android/build-cache/6bba3f380cae6220e75df5fa3a39de15a625bdd8/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/view/GuideView/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/admin/.android/build-cache/6bba3f380cae6220e75df5fa3a39de15a625bdd8/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/view/GuideView/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/admin/.android/build-cache/6bba3f380cae6220e75df5fa3a39de15a625bdd8/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/view/GuideView/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/admin/.android/build-cache/6bba3f380cae6220e75df5fa3a39de15a625bdd8/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/view/GuideView/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/admin/.android/build-cache/6bba3f380cae6220e75df5fa3a39de15a625bdd8/output/res/anim/abc_slide_out_top.xml"
+    }
+]

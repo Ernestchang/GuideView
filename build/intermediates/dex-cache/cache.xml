@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/8402a5205ea6ca1612263058657142d1286262a4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/admin/code/git/view/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7aeff17675b58bb628ad6b3d3423f238bffa3cbd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/code/git/view/GuideView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/admin/code/git/view/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_709a7171a275ecb0601485c513fd9fbf9b36a300/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/54a3a198c0d5087700e26ff83ffbd86417f59212/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/admin/code/git/view/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_142e348d42fb4d8ec64c848a45e1a5f54130a93e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/eb4d0c840a95dbf3ad632b69e545beef58b6a678/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/admin/code/git/view/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff9663b7ac0441bec00199254dee8a30dbeeade1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/6bba3f380cae6220e75df5fa3a39de15a625bdd8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/admin/code/git/view/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42a521784b88ac697079d428e535a7415af68d2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/60daac9a3787d8defb29666920893e548e223ece/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/admin/code/git/view/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1464b912f8a0d991df6a45b234ef231b51e38b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/code/git/view/GuideView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7cbdc61cfa5afafd4eea65022abf4a8f41d9e04a">
+        <dex dex="/Users/admin/code/git/view/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6c3dbbe1e6ab57b95e14978ac0776eb9f44d390c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/d7aa01b2ff1551765d215213c7fee30d1cb2004f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/admin/code/git/view/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d10eb47eeb855640ce97772b7a4768f2de78185/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/c914cd55d2bd6cb75f901cee2047b1ee04d11fef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/admin/code/git/view/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c0d2bf3b340a0020534584bb65cbbb03d37cec37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/932f5eaf6debb4f3db1abebb53aff9f0e9b18eb4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/admin/code/git/view/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47687a289ed564e2b070a6bc583e675ced1adcb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/17d923427b64c206a0cfed33dfd79c47116794cc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/admin/code/git/view/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e2f51f53f5727328e815dc8111940f7d905d884/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/soft/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/admin/code/git/view/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_62cf04336d01c4b14151e93f1c23cf4bdd3f468b/classes.dex" />
+    </item>
+
+</items>

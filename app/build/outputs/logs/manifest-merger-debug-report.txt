@@ -1,0 +1,100 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:3:3-27
+		INJECTED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:5:3-34:17
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/admin/.android/build-cache/6bba3f380cae6220e75df5fa3a39de15a625bdd8/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /Users/admin/.android/build-cache/932f5eaf6debb4f3db1abebb53aff9f0e9b18eb4/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/admin/.android/build-cache/17d923427b64c206a0cfed33dfd79c47116794cc/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/admin/.android/build-cache/eb4d0c840a95dbf3ad632b69e545beef58b6a678/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/admin/.android/build-cache/d7aa01b2ff1551765d215213c7fee30d1cb2004f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/admin/.android/build-cache/c914cd55d2bd6cb75f901cee2047b1ee04d11fef/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/admin/.android/build-cache/54a3a198c0d5087700e26ff83ffbd86417f59212/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/admin/.android/build-cache/60daac9a3787d8defb29666920893e548e223ece/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /Users/admin/.android/build-cache/8402a5205ea6ca1612263058657142d1286262a4/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:8:5-37
+	android:allowBackup
+		ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:6:5-31
+	android:icon
+		ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:7:5-39
+	android:theme
+		ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:9:5-61
+activity#com.demo.aty.SimpleGuideViewActivity
+ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:10:5-12:46
+	android:screenOrientation
+		ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:12:7-43
+	android:name
+		ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:11:7-58
+activity#com.demo.aty.HomeActivity
+ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:13:5-21:16
+	android:screenOrientation
+		ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:15:7-43
+	android:name
+		ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:14:7-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:16:7-20:23
+action#android.intent.action.MAIN
+ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:17:9-61
+	android:name
+		ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:17:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:19:9-69
+	android:name
+		ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:19:19-66
+activity#com.demo.aty.FullActivity
+ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:22:5-24:46
+	android:screenOrientation
+		ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:24:7-43
+	android:name
+		ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:23:7-47
+activity#com.demo.aty.FragActivity
+ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:25:5-27:46
+	android:screenOrientation
+		ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:27:7-43
+	android:name
+		ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:26:7-47
+activity#com.demo.aty.ViewActivity
+ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:28:5-30:46
+	android:screenOrientation
+		ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:30:7-43
+	android:name
+		ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:29:7-47
+activity#com.demo.aty.MyListActivity
+ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:31:5-33:46
+	android:screenOrientation
+		ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:33:7-43
+	android:name
+		ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:32:7-49
+uses-sdk
+INJECTED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/admin/.android/build-cache/6bba3f380cae6220e75df5fa3a39de15a625bdd8/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.0] /Users/admin/.android/build-cache/932f5eaf6debb4f3db1abebb53aff9f0e9b18eb4/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/admin/.android/build-cache/17d923427b64c206a0cfed33dfd79c47116794cc/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/admin/.android/build-cache/eb4d0c840a95dbf3ad632b69e545beef58b6a678/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/admin/.android/build-cache/d7aa01b2ff1551765d215213c7fee30d1cb2004f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/admin/.android/build-cache/c914cd55d2bd6cb75f901cee2047b1ee04d11fef/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/admin/.android/build-cache/54a3a198c0d5087700e26ff83ffbd86417f59212/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/admin/.android/build-cache/60daac9a3787d8defb29666920893e548e223ece/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] /Users/admin/.android/build-cache/8402a5205ea6ca1612263058657142d1286262a4/output/AndroidManifest.xml:21:5-23:58
+MERGED from [GuideView:guideview:unspecified] /Users/admin/code/git/view/GuideView/guideview/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] /Users/admin/.android/build-cache/6bba3f380cae6220e75df5fa3a39de15a625bdd8/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml
