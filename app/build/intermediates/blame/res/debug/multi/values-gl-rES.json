@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "/Users/admin/code/git/view/GuideView/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl-rES/values-gl-rES.xml",
+=======
+        "outputFile": "/Users/admin/code/git/GuideView/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl-rES/values-gl-rES.xml",
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
         "map": [
             {
                 "to": {
@@ -11,6 +15,7 @@
                     "endOffset": 162
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/admin/.android/build-cache/6bba3f380cae6220e75df5fa3a39de15a625bdd8/output/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
                         "startLine": 2,
@@ -18,6 +23,15 @@
                         "startOffset": 55,
                         "endColumn": 111,
                         "endOffset": 162
+=======
+                    "file": "/Users/admin/.android/build-cache/60796f4c81880a0cb196006e001e905dca0c2472/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 111,
+                        "endOffset": 402
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
                     }
                 }
             },
@@ -26,6 +40,7 @@
                     "startLine": 3,
                     "startColumn": 4,
                     "startOffset": 167,
+<<<<<<< HEAD
                     "endColumn": 107,
                     "endOffset": 270
                 },
@@ -75,11 +90,25 @@
                         "startOffset": 398,
                         "endColumn": 111,
                         "endOffset": 505
+=======
+                    "endColumn": 111,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/60796f4c81880a0cb196006e001e905dca0c2472/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 407,
+                        "endColumn": 111,
+                        "endOffset": 514
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 6,
                     "startColumn": 4,
                     "startOffset": 510,
@@ -94,11 +123,28 @@
                         "startOffset": 510,
                         "endColumn": 107,
                         "endOffset": 613
+=======
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 107,
+                    "endOffset": 382
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/60796f4c81880a0cb196006e001e905dca0c2472/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 519,
+                        "endColumn": 107,
+                        "endOffset": 622
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 7,
                     "startColumn": 4,
                     "startOffset": 618,
@@ -113,11 +159,28 @@
                         "startOffset": 618,
                         "endColumn": 84,
                         "endOffset": 698
+=======
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 387,
+                    "endColumn": 84,
+                    "endOffset": 467
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/60796f4c81880a0cb196006e001e905dca0c2472/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 627,
+                        "endColumn": 84,
+                        "endOffset": 707
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 8,
                     "startColumn": 4,
                     "startOffset": 703,
@@ -132,11 +195,28 @@
                         "startOffset": 703,
                         "endColumn": 101,
                         "endOffset": 800
+=======
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 472,
+                    "endColumn": 101,
+                    "endOffset": 569
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/60796f4c81880a0cb196006e001e905dca0c2472/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 712,
+                        "endColumn": 101,
+                        "endOffset": 809
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 9,
                     "startColumn": 4,
                     "startOffset": 805,
@@ -208,11 +288,28 @@
                         "startOffset": 1096,
                         "endColumn": 81,
                         "endOffset": 1173
+=======
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 574,
+                    "endColumn": 125,
+                    "endOffset": 695
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/60796f4c81880a0cb196006e001e905dca0c2472/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 814,
+                        "endColumn": 125,
+                        "endOffset": 935
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 13,
                     "startColumn": 4,
                     "startOffset": 1178,
@@ -227,11 +324,28 @@
                         "startOffset": 1178,
                         "endColumn": 106,
                         "endOffset": 1280
+=======
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 700,
+                    "endColumn": 106,
+                    "endOffset": 802
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/60796f4c81880a0cb196006e001e905dca0c2472/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 940,
+                        "endColumn": 106,
+                        "endOffset": 1042
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 14,
                     "startColumn": 4,
                     "startOffset": 1285,
@@ -246,11 +360,28 @@
                         "startOffset": 1285,
                         "endColumn": 108,
                         "endOffset": 1389
+=======
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 807,
+                    "endColumn": 108,
+                    "endOffset": 911
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/60796f4c81880a0cb196006e001e905dca0c2472/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1047,
+                        "endColumn": 108,
+                        "endOffset": 1151
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 15,
                     "startColumn": 4,
                     "startOffset": 1394,
@@ -265,11 +396,28 @@
                         "startOffset": 1394,
                         "endColumn": 98,
                         "endOffset": 1488
+=======
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 916,
+                    "endColumn": 98,
+                    "endOffset": 1010
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/60796f4c81880a0cb196006e001e905dca0c2472/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1156,
+                        "endColumn": 98,
+                        "endOffset": 1250
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 16,
                     "startColumn": 4,
                     "startOffset": 1493,
@@ -284,11 +432,28 @@
                         "startOffset": 1493,
                         "endColumn": 107,
                         "endOffset": 1596
+=======
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1015,
+                    "endColumn": 107,
+                    "endOffset": 1118
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/60796f4c81880a0cb196006e001e905dca0c2472/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1255,
+                        "endColumn": 107,
+                        "endOffset": 1358
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 17,
                     "startColumn": 4,
                     "startOffset": 1601,
@@ -303,11 +468,28 @@
                         "startOffset": 1601,
                         "endColumn": 102,
                         "endOffset": 1699
+=======
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1123,
+                    "endColumn": 102,
+                    "endOffset": 1221
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/60796f4c81880a0cb196006e001e905dca0c2472/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1363,
+                        "endColumn": 102,
+                        "endOffset": 1461
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 18,
                     "startColumn": 4,
                     "startOffset": 1704,
@@ -322,11 +504,28 @@
                         "startOffset": 1704,
                         "endColumn": 106,
                         "endOffset": 1806
+=======
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1226,
+                    "endColumn": 106,
+                    "endOffset": 1328
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/60796f4c81880a0cb196006e001e905dca0c2472/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1466,
+                        "endColumn": 106,
+                        "endOffset": 1568
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 19,
                     "startColumn": 4,
                     "startOffset": 1811,
@@ -398,6 +597,22 @@
                         "startOffset": 2115,
                         "endColumn": 100,
                         "endOffset": 2211
+=======
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1333,
+                    "endColumn": 121,
+                    "endOffset": 1450
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/60796f4c81880a0cb196006e001e905dca0c2472/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1573,
+                        "endColumn": 121,
+                        "endOffset": 1690
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
                     }
                 }
             }

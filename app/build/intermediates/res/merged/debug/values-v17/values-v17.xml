@@ -7,6 +7,13 @@
         <item name="android:layout_gravity">center_vertical|start</item>
         <item name="android:paddingEnd">8dp</item>
     </style>
+<<<<<<< HEAD
+=======
+    <style name="RtlOverlay.Widget.AppCompat.ActionButton.Overflow" parent="Base.Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:paddingStart">@dimen/abc_action_bar_overflow_padding_start_material</item>
+        <item name="android:paddingEnd">@dimen/abc_action_bar_overflow_padding_end_material</item>
+    </style>
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
     <style name="RtlOverlay.Widget.AppCompat.DialogTitle.Icon" parent="android:Widget">
         <item name="android:layout_marginEnd">8dp</item>
     </style>
@@ -40,6 +47,7 @@
     <style name="RtlOverlay.Widget.AppCompat.SearchView.MagIcon" parent="android:Widget">
         <item name="android:layout_marginStart">@dimen/abc_dropdownitem_text_padding_left</item>
     </style>
+<<<<<<< HEAD
     <style name="RtlUnderlay.Widget.AppCompat.ActionButton" parent="android:Widget">
         <item name="android:paddingStart">12dp</item>
         <item name="android:paddingEnd">12dp</item>
@@ -47,5 +55,9 @@
     <style name="RtlUnderlay.Widget.AppCompat.ActionButton.Overflow" parent="Base.Widget.AppCompat.ActionButton">
         <item name="android:paddingStart">@dimen/abc_action_bar_overflow_padding_start_material</item>
         <item name="android:paddingEnd">@dimen/abc_action_bar_overflow_padding_end_material</item>
+=======
+    <style name="RtlOverlay.Widget.AppCompat.Toolbar.Button.Navigation" parent="Base.Widget.AppCompat.Toolbar.Button.Navigation">
+        <item name="android:paddingStart">@dimen/abc_action_bar_navigation_padding_start_material</item>
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
     </style>
 </resources>

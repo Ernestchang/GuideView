@@ -1,6 +1,11 @@
 [
     {
+<<<<<<< HEAD
         "merged": "/Users/admin/code/git/view/GuideView/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
         "source": "/Users/admin/code/git/view/GuideView/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+=======
+        "merged": "/Users/admin/code/git/GuideView/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/admin/code/git/GuideView/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
     }
 ]

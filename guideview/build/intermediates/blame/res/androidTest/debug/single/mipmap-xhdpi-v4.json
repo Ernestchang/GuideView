@@ -1,6 +1,11 @@
 [
     {
+<<<<<<< HEAD
         "merged": "/Users/admin/code/git/view/GuideView/guideview/build/intermediates/res/merged/androidTest/debug/mipmap-xhdpi-v4/ic_launcher.png",
         "source": "/Users/admin/code/git/view/GuideView/guideview/build/intermediates/bundles/debug/res/mipmap-xhdpi-v4/ic_launcher.png"
+=======
+        "merged": "/Users/admin/code/git/GuideView/guideview/build/intermediates/res/merged/androidTest/debug/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/admin/code/git/GuideView/guideview/build/intermediates/bundles/debug/res/mipmap-xhdpi-v4/ic_launcher.png"
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
     }
 ]

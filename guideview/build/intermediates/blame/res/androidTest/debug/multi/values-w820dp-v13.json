@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "/Users/admin/code/git/view/GuideView/guideview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+=======
+        "outputFile": "/Users/admin/code/git/GuideView/guideview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 108
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/admin/code/git/view/GuideView/guideview/build/intermediates/bundles/debug/res/values-w820dp-v13/values-w820dp-v13.xml",
+=======
+                    "file": "/Users/admin/code/git/GuideView/guideview/build/intermediates/bundles/debug/res/values-w820dp-v13/values-w820dp-v13.xml",
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

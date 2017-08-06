@@ -3,8 +3,13 @@
     package="com.blog.www.guideview.test" >
 
     <uses-sdk
+<<<<<<< HEAD
         android:minSdkVersion="16"
         android:targetSdkVersion="25" />
+=======
+        android:minSdkVersion="8"
+        android:targetSdkVersion="23" />
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
 
     <instrumentation
         android:name="android.test.InstrumentationTestRunner"

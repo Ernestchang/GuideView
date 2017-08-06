@@ -14,7 +14,11 @@
      limitations under the License.
 -->
 
+<<<<<<< HEAD
 <android.support.v7.widget.FitWindowsLinearLayout
+=======
+<android.support.v7.internal.widget.FitWindowsLinearLayout
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/action_bar_root"
     android:layout_width="match_parent"
@@ -22,7 +26,11 @@
     android:orientation="vertical"
     android:fitsSystemWindows="true">
 
+<<<<<<< HEAD
     <android.support.v7.widget.ViewStubCompat
+=======
+    <android.support.v7.internal.widget.ViewStubCompat
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
         android:id="@+id/action_mode_bar_stub"
         android:inflatedId="@+id/action_mode_bar"
         android:layout="@layout/abc_action_mode_bar"
@@ -31,4 +39,9 @@
 
     <include layout="@layout/abc_screen_content_include" />
 
+<<<<<<< HEAD
 </android.support.v7.widget.FitWindowsLinearLayout>
+=======
+</android.support.v7.internal.widget.FitWindowsLinearLayout>
+<!-- From: file:/usr/local/google/buildbot/repo_clients/https___googleplex-android.googlesource.com_a_platform_manifest.git/lmp-mr1-supportlib-release/frameworks/support/v7/appcompat/res/layout/abc_screen_simple.xml -->
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869

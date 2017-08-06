@@ -16,10 +16,18 @@
 ** limitations under the License.
 */
 -->
+<<<<<<< HEAD
 <android.support.v7.widget.ActionBarContextView
+=======
+<android.support.v7.internal.widget.ActionBarContextView
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
         xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:visibility="gone"
         android:theme="?attr/actionBarTheme"
         style="?attr/actionModeStyle"/>
+<<<<<<< HEAD
+=======
+<!-- From: file:/usr/local/google/buildbot/repo_clients/https___googleplex-android.googlesource.com_a_platform_manifest.git/lmp-mr1-supportlib-release/frameworks/support/v7/appcompat/res/layout/abc_action_mode_bar.xml -->
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869

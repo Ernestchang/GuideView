@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="Base.Widget.AppCompat.DrawerArrowToggle" parent="Base.Widget.AppCompat.DrawerArrowToggle.Common">
+<<<<<<< HEAD
           <item name="barLength">18.66dp</item>
+=======
+          <item name="barSize">18.66dp</item>
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
           <item name="gapBetweenBars">3.33dp</item>
           <item name="drawableSize">24dp</item>
      </style>

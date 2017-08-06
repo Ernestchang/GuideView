@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <merger version="3"><dataSet config="main"><source path="/Users/admin/code/git/view/GuideView/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/admin/code/git/view/GuideView/app/src/debug/shaders"/></dataSet></merger>
+=======
+<merger version="3"><dataSet config="main"><source path="/Users/admin/code/git/GuideView/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/admin/code/git/GuideView/app/src/debug/shaders"/></dataSet></merger>
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869

@@ -18,3 +18,7 @@
     <item android:state_enabled="false" android:color="@color/bright_foreground_disabled_material_dark"/>
     <item android:color="@color/bright_foreground_material_dark"/>
 </selector>
+<<<<<<< HEAD
+=======
+<!-- From: file:/usr/local/google/buildbot/repo_clients/https___googleplex-android.googlesource.com_a_platform_manifest.git/lmp-mr1-supportlib-release/frameworks/support/v7/appcompat/res/color/abc_primary_text_disable_only_material_dark.xml -->
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869

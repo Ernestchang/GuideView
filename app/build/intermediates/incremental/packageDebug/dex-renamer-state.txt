@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Thu Jun 08 09:25:14 CST 2017
 base.0=/Users/admin/code/git/view/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_709a7171a275ecb0601485c513fd9fbf9b36a300
 renamed.1=classes2.dex
@@ -5,3 +6,12 @@ renamed.0=classes.dex
 file.1=/Users/admin/code/git/view/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6c3dbbe1e6ab57b95e14978ac0776eb9f44d390c/classes.dex
 base.1=/Users/admin/code/git/view/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6c3dbbe1e6ab57b95e14978ac0776eb9f44d390c
 file.0=/Users/admin/code/git/view/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_709a7171a275ecb0601485c513fd9fbf9b36a300/classes.dex
+=======
+#Tue Jul 25 15:18:01 CST 2017
+base.0=/Users/admin/code/git/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e8be983b6de0f45896b31b15082206c415702054
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/admin/code/git/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b15632e75762a4e6501d94e077ae22ff6b35cfd3/classes.dex
+base.1=/Users/admin/code/git/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b15632e75762a4e6501d94e077ae22ff6b35cfd3
+file.0=/Users/admin/code/git/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e8be983b6de0f45896b31b15082206c415702054/classes.dex
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869

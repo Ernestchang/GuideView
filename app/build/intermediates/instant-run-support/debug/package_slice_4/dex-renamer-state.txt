@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 #Thu Jun 08 09:25:14 CST 2017
 base.0=/Users/admin/code/git/view/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
 renamed.0=classes.dex
 file.0=/Users/admin/code/git/view/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex
+=======
+#Tue Jul 25 12:55:58 CST 2017
+base.0=/Users/admin/code/git/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/Users/admin/code/git/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869

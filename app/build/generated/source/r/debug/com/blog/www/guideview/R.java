@@ -8,15 +8,38 @@ package com.blog.www.guideview;
 
 public final class R {
     public static final class dimen {
+<<<<<<< HEAD
         public static final int activity_horizontal_margin = 0x7f070015;
         public static final int activity_vertical_margin = 0x7f07004f;
+=======
+        public static final int activity_horizontal_margin = 0x7f070010;
+        public static final int activity_vertical_margin = 0x7f070041;
+    }
+    public static final class drawable {
+        public static final int icon_ad = 0x7f02003d;
+        public static final int icon_close = 0x7f02003e;
+        public static final int icon_shit = 0x7f02003f;
+    }
+    public static final class id {
+        public static final int iv_ad = 0x7f0c005e;
+        public static final int iv_close = 0x7f0c005f;
+    }
+    public static final class layout {
+        public static final int l_ad = 0x7f040020;
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
     }
     public static final class mipmap {
         public static final int ic_launcher = 0x7f030001;
     }
     public static final class string {
+<<<<<<< HEAD
         public static final int action_settings = 0x7f060021;
         public static final int app_name = 0x7f060023;
         public static final int hello_world = 0x7f060026;
+=======
+        public static final int action_settings = 0x7f060011;
+        public static final int app_name = 0x7f060013;
+        public static final int hello_world = 0x7f060016;
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
     }
 }

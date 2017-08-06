@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Thu Jun 08 09:25:13 CST 2017
 renamed.9=classes2.dex
 renamed.8=classes4.dex
@@ -29,3 +30,18 @@ file.3=/Users/admin/code/git/view/GuideView/app/build/intermediates/transforms/d
 file.2=/Users/admin/code/git/view/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_62cf04336d01c4b14151e93f1c23cf4bdd3f468b/classes.dex
 file.1=/Users/admin/code/git/view/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e2f51f53f5727328e815dc8111940f7d905d884/classes.dex
 file.0=/Users/admin/code/git/view/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff9663b7ac0441bec00199254dee8a30dbeeade1/classes.dex
+=======
+#Tue Jul 25 12:55:57 CST 2017
+renamed.3=classes4.dex
+renamed.2=classes2.dex
+renamed.1=classes.dex
+renamed.0=classes3.dex
+base.3=/Users/admin/code/git/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_65e73c2f4933cf71e2ccea6b8683ba6589fc5c33
+base.2=/Users/admin/code/git/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a9dcd861033530cbb36e3022f2348a90313ca9d
+base.1=/Users/admin/code/git/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f37612e1184d2ffa4ee95093d150dcc26d56741
+base.0=/Users/admin/code/git/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_aa1ebce62ab78e5bfc519e44a0c837b8fcc7283c
+file.3=/Users/admin/code/git/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_65e73c2f4933cf71e2ccea6b8683ba6589fc5c33/classes.dex
+file.2=/Users/admin/code/git/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a9dcd861033530cbb36e3022f2348a90313ca9d/classes.dex
+file.1=/Users/admin/code/git/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f37612e1184d2ffa4ee95093d150dcc26d56741/classes.dex
+file.0=/Users/admin/code/git/GuideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_aa1ebce62ab78e5bfc519e44a0c837b8fcc7283c/classes.dex
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869

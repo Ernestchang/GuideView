@@ -8,7 +8,7 @@ import android.widget.Button;
 import com.demo.guide.R;
 
 public class HomeActivity extends Activity implements View.OnClickListener {
-  private Button mBtnAty, mBtnFrag, mBtnList, mBtnView, mBtnFragView, mBtnMore;
+  private Button mBtnAty, mBtnFrag, mBtnList, mBtnView, mBtnFragView, mBtnMore,mBtnAd;
 
   @Override protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
@@ -19,12 +19,16 @@ public class HomeActivity extends Activity implements View.OnClickListener {
     mBtnList = (Button) findViewById(R.id.btn_list);
     mBtnMore = (Button) findViewById(R.id.btn_more);
     mBtnView = (Button) findViewById(R.id.btn_view);
+    mBtnAd = (Button) findViewById(R.id.btn_ad);
     mBtnAty.setOnClickListener(this);
     mBtnFrag.setOnClickListener(this);
     mBtnFragView.setOnClickListener(this);
     mBtnList.setOnClickListener(this);
     mBtnMore.setOnClickListener(this);
     mBtnView.setOnClickListener(this);
+    mBtnAd.setOnClickListener(this);
+
+
   }
 
   @Override public void onClick(View view) {
@@ -46,6 +50,9 @@ public class HomeActivity extends Activity implements View.OnClickListener {
         break;
       case R.id.btn_view:
         startActivity(new Intent(HomeActivity.this, ViewActivity.class));
+        break;
+      case R.id.btn_ad:
+        startActivity(new Intent(HomeActivity.this, CoverAdActivity.class));
         break;
     }
   }

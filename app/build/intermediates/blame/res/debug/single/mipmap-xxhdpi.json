@@ -1,10 +1,19 @@
 [
     {
+<<<<<<< HEAD
         "merged": "/Users/admin/code/git/view/GuideView/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/arrow.png",
         "source": "/Users/admin/code/git/view/GuideView/app/src/main/res/mipmap-xxhdpi/arrow.png"
     },
     {
         "merged": "/Users/admin/code/git/view/GuideView/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
         "source": "/Users/admin/code/git/view/GuideView/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+=======
+        "merged": "/Users/admin/code/git/GuideView/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/admin/code/git/GuideView/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/GuideView/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/arrow.png",
+        "source": "/Users/admin/code/git/GuideView/app/src/main/res/mipmap-xxhdpi/arrow.png"
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
     }
 ]

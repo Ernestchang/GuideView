@@ -1,8 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
+<<<<<<< HEAD
     compileSdkVersion 25
     buildToolsVersion "25.0.1"
+=======
+    compileSdkVersion 22
+    buildToolsVersion '25.0.0'
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
 
     defaultConfig {
         applicationId "com.daojia.guide"

@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "/Users/admin/code/git/view/GuideView/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+=======
+        "outputFile": "/Users/admin/code/git/GuideView/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 108
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/admin/code/git/view/GuideView/app/src/main/res/values-w820dp/dimens.xml",
+=======
+                    "file": "/Users/admin/code/git/GuideView/app/src/main/res/values-w820dp/dimens.xml",
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
                     "position": {
                         "startLine": 4,
                         "startColumn": 2,

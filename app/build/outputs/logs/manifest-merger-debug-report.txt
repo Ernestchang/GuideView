@@ -1,5 +1,6 @@
 -- Merging decision tree log ---
 manifest
+<<<<<<< HEAD
 ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:2:1-36:12
 	package
 		ADDED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml:3:3-27
@@ -98,3 +99,93 @@ MERGED from [GuideView:guideview:unspecified] /Users/admin/code/git/view/GuideVi
 	android:minSdkVersion
 		INJECTED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/admin/code/git/view/GuideView/app/src/main/AndroidManifest.xml
+=======
+ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:5:5-37:19
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/admin/.android/build-cache/60796f4c81880a0cb196006e001e905dca0c2472/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] /Users/admin/.android/build-cache/6a8ab949ecb5166b2d2851ee6554c4c1321fd2bc/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:8:9-41
+	android:allowBackup
+		ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:9:9-65
+activity#com.demo.aty.SimpleGuideViewActivity
+ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:10:9-12:52
+	android:screenOrientation
+		ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:12:13-49
+	android:name
+		ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:11:13-64
+activity#com.demo.aty.HomeActivity
+ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:13:9-21:20
+	android:screenOrientation
+		ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:15:13-49
+	android:name
+		ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:14:13-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.demo.aty.FullActivity
+ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:22:9-24:52
+	android:screenOrientation
+		ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:23:13-53
+activity#com.demo.aty.FragActivity
+ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:25:9-27:52
+	android:screenOrientation
+		ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:27:13-49
+	android:name
+		ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:26:13-53
+activity#com.demo.aty.ViewActivity
+ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:28:9-30:52
+	android:screenOrientation
+		ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:29:13-53
+activity#com.demo.aty.MyListActivity
+ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:31:9-33:52
+	android:screenOrientation
+		ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:32:13-55
+activity#com.demo.aty.CoverAdActivity
+ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:34:9-36:52
+	android:screenOrientation
+		ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml:35:13-56
+uses-sdk
+INJECTED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/admin/.android/build-cache/60796f4c81880a0cb196006e001e905dca0c2472/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] /Users/admin/.android/build-cache/6a8ab949ecb5166b2d2851ee6554c4c1321fd2bc/output/AndroidManifest.xml:20:5-43
+MERGED from [GuideView:guideview:unspecified] /Users/admin/code/git/GuideView/guideview/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/code/git/GuideView/app/src/main/AndroidManifest.xml
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869

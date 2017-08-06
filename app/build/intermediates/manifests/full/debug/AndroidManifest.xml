@@ -5,8 +5,13 @@
     android:versionName="1.0" >
 
     <uses-sdk
+<<<<<<< HEAD
         android:minSdkVersion="16"
         android:targetSdkVersion="25" />
+=======
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
 
     <application
         android:allowBackup="true"
@@ -37,6 +42,12 @@
         <activity
             android:name="com.demo.aty.MyListActivity"
             android:screenOrientation="portrait" />
+<<<<<<< HEAD
+=======
+        <activity
+            android:name="com.demo.aty.CoverAdActivity"
+            android:screenOrientation="portrait" />
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
     </application>
 
 </manifest>

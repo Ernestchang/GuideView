@@ -21,11 +21,20 @@
     android:layout_height="64dp"
     android:orientation="horizontal"
     >
+<<<<<<< HEAD
     <include layout="@layout/notification_template_icon_group"
         android:layout_width="@dimen/notification_large_icon_width"
         android:layout_height="@dimen/notification_large_icon_height"
     />
     <include layout="@layout/notification_template_lines_media"
+=======
+    <ImageView android:id="@+id/icon"
+        android:layout_width="@dimen/notification_large_icon_width"
+        android:layout_height="@dimen/notification_large_icon_width"
+        android:scaleType="centerCrop"
+        />
+    <include layout="@layout/notification_template_lines"
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_weight="1"/>
@@ -49,3 +58,7 @@
         android:layout_height="match_parent"
         />
 </LinearLayout>
+<<<<<<< HEAD
+=======
+<!-- From: file:/usr/local/google/buildbot/repo_clients/https___googleplex-android.googlesource.com_a_platform_manifest.git/lmp-mr1-supportlib-release/frameworks/support/v7/appcompat/res/layout/notification_template_media.xml -->
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869

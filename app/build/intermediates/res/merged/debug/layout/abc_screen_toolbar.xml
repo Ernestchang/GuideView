@@ -14,7 +14,11 @@
      limitations under the License.
 -->
 
+<<<<<<< HEAD
 <android.support.v7.widget.ActionBarOverlayLayout
+=======
+<android.support.v7.internal.widget.ActionBarOverlayLayout
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
         xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:app="http://schemas.android.com/apk/res-auto"
         android:id="@+id/decor_content_parent"
@@ -24,7 +28,11 @@
 
     <include layout="@layout/abc_screen_content_include"/>
 
+<<<<<<< HEAD
     <android.support.v7.widget.ActionBarContainer
+=======
+    <android.support.v7.internal.widget.ActionBarContainer
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
             android:id="@+id/action_bar_container"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -40,7 +48,11 @@
                 app:navigationContentDescription="@string/abc_action_bar_up_description"
                 style="?attr/toolbarStyle"/>
 
+<<<<<<< HEAD
         <android.support.v7.widget.ActionBarContextView
+=======
+        <android.support.v7.internal.widget.ActionBarContextView
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
                 android:id="@+id/action_context_bar"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -48,6 +60,13 @@
                 android:theme="?attr/actionBarTheme"
                 style="?attr/actionModeStyle"/>
 
+<<<<<<< HEAD
     </android.support.v7.widget.ActionBarContainer>
 
 </android.support.v7.widget.ActionBarOverlayLayout>
+=======
+    </android.support.v7.internal.widget.ActionBarContainer>
+
+</android.support.v7.internal.widget.ActionBarOverlayLayout>
+<!-- From: file:/usr/local/google/buildbot/repo_clients/https___googleplex-android.googlesource.com_a_platform_manifest.git/lmp-mr1-supportlib-release/frameworks/support/v7/appcompat/res/layout/abc_screen_toolbar.xml -->
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869

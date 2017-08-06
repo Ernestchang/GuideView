@@ -14,7 +14,11 @@
      limitations under the License.
 -->
 
+<<<<<<< HEAD
 <android.support.v7.view.menu.ListMenuItemView
+=======
+<android.support.v7.internal.view.menu.ListMenuItemView
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
         xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
         android:layout_height="?attr/dropdownListPreferredItemHeight"
@@ -56,6 +60,7 @@
 
     </RelativeLayout>
 
+<<<<<<< HEAD
     <ImageView
             android:id="@+id/submenuarrow"
             android:layout_width="wrap_content"
@@ -69,3 +74,9 @@
     <!-- Checkbox, and/or radio button will be inserted here. -->
 
 </android.support.v7.view.menu.ListMenuItemView>
+=======
+    <!-- Checkbox, and/or radio button will be inserted here. -->
+
+</android.support.v7.internal.view.menu.ListMenuItemView>
+<!-- From: file:/usr/local/google/buildbot/repo_clients/https___googleplex-android.googlesource.com_a_platform_manifest.git/lmp-mr1-supportlib-release/frameworks/support/v7/appcompat/res/layout/abc_popup_menu_item_layout.xml -->
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869

@@ -11,6 +11,7 @@ public final class R {
     public static final class attr {
     }
     public static final class dimen {
+<<<<<<< HEAD
         public static int activity_horizontal_margin=0x7f030000;
         public static int activity_vertical_margin=0x7f030001;
     }
@@ -21,5 +22,30 @@ public final class R {
         public static int action_settings=0x7f040000;
         public static int app_name=0x7f040001;
         public static int hello_world=0x7f040002;
+=======
+        public static int activity_horizontal_margin=0x7f050000;
+        public static int activity_vertical_margin=0x7f050001;
+    }
+    public static final class drawable {
+        public static int icon_ad=0x7f020000;
+        public static int icon_close=0x7f020001;
+        public static int icon_shit=0x7f020002;
+    }
+    public static final class id {
+        public static int iv_ad=0x7f070001;
+        public static int iv_close=0x7f070002;
+        public static int rl_all=0x7f070000;
+    }
+    public static final class layout {
+        public static int l_ad=0x7f040000;
+    }
+    public static final class mipmap {
+        public static int ic_launcher=0x7f030000;
+    }
+    public static final class string {
+        public static int action_settings=0x7f060000;
+        public static int app_name=0x7f060001;
+        public static int hello_world=0x7f060002;
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
     }
 }

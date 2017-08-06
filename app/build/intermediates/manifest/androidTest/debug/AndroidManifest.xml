@@ -2,7 +2,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.daojia.guide.test">
 
+<<<<<<< HEAD
     <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="25" />
+=======
+    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="17" />
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
 
     <application>
         <uses-library android:name="android.test.runner" />

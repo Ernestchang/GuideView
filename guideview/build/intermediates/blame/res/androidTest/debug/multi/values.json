@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "/Users/admin/code/git/view/GuideView/guideview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+=======
+        "outputFile": "/Users/admin/code/git/GuideView/guideview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 108
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/admin/code/git/view/GuideView/guideview/build/intermediates/bundles/debug/res/values/values.xml",
+=======
+                    "file": "/Users/admin/code/git/GuideView/guideview/build/intermediates/bundles/debug/res/values/values.xml",
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +38,11 @@
                     "endOffset": 164
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/admin/code/git/view/GuideView/guideview/build/intermediates/bundles/debug/res/values/values.xml",
+=======
+                    "file": "/Users/admin/code/git/GuideView/guideview/build/intermediates/bundles/debug/res/values/values.xml",
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +61,11 @@
                     "endOffset": 217
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/admin/code/git/view/GuideView/guideview/build/intermediates/bundles/debug/res/values/values.xml",
+=======
+                    "file": "/Users/admin/code/git/GuideView/guideview/build/intermediates/bundles/debug/res/values/values.xml",
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +84,11 @@
                     "endOffset": 264
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/admin/code/git/view/GuideView/guideview/build/intermediates/bundles/debug/res/values/values.xml",
+=======
+                    "file": "/Users/admin/code/git/GuideView/guideview/build/intermediates/bundles/debug/res/values/values.xml",
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +107,11 @@
                     "endOffset": 317
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/admin/code/git/view/GuideView/guideview/build/intermediates/bundles/debug/res/values/values.xml",
+=======
+                    "file": "/Users/admin/code/git/GuideView/guideview/build/intermediates/bundles/debug/res/values/values.xml",
+>>>>>>> c40c27d08271dca778a244aee71405ba47249869
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
